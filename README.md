@@ -2,7 +2,7 @@
 
 O projeto **Protege+** é uma aplicação móvel desenvolvida em Kotlin com o objetivo de oferecer um canal direto para denúncias relacionadas à segurança e crimes. O aplicativo permite aos usuários realizar denúncias de forma rápida e eficiente, além de localizar facilmente as delegacias mais próximas utilizando a API do Google Maps.
 
-## Screenview
+## Live Demo
 <img src="https://github.com/user-attachments/assets/ebd94016-a6a3-4149-b795-401d7be8c082" width="400" alt="Protege+ Demo"/>
 
 
