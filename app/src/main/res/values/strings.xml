@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Protege+</string>
+    <string name="protege">Protege+</string>
+    <string name="senha">Password</string>
+    <string name="entrar">Enter</string>
+    <string name="criar">Create account</string>
+    <string name="ou">or</string>
+    <string name="anonimo">log in as anonymous</string>
+    <string name="digitedenha">Enter your password</string>
+    <string name="digitenome">Enter your name</string>
+    <string name="nome">Name</string>
+    <string name="criesenha">Create tour password</string>
+    <string name="criarcadas">Create</string>
+    <string name="fazerlog">Make login</string>
+    <string name="digitecpf">Enter your CPF</string>
+    <string name="criaçaodeconta">Account creation</string>
+    <string name="informedados">Enter your details to create your account</string>
+    <string name="confirmarsenha">Confirm your password</string>
+    <string name="suasenhadeve">Use 6 caracteres, incluindo números e letras</string>
+    <string name="registrar">Registrar Denúncia</string>
+    <string name="descricao">Descrição da Denuncia</string>
+    <string name="categoria">Categoria</string>
+    <string name="localizacao">Localização</string>
+    <string name="faca">Faça sua denúncia</string>
+    <string name="perfil">Hi, Cláudio!</string>
+    <string name="dashTitulo">Reports received this week</string>
+    <string name="dashBDenuncia">Report an incident</string>
+    <string name="dashBApoio">Support Locations</string>
+    <string name="dashTexto">Do not stay silent, we are here to help</string>
+    <string name="localApoioTitulo">Support Locations</string>
+    <string name="perfilTexto">I am Cláudio, a proud Brazilian and carioca at heart. I grew up in Rio de Janeiro, surrounded by beaches, music, and that unique energy only this city has. I enjoy life with ease, always open to new experiences and learning opportunities.</string>
+    <string name="perfilB">Logout</string>
+
+</resources>

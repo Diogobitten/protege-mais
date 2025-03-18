@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Protege+</string>
+    <string name="protege">Protege+</string>
+    <string name="senha">Senha</string>
+    <string name="digitedenha">Digite sua senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="criar">Cadastre-se</string>
+    <string name="ou">ou</string>
+    <string name="anonimo">Entrar como anônimo</string>
+    <string name="digitecpf">Digite seu cpf</string>
+    <string name="nome">Nome</string>
+    <string name="criesenha">Crie sua senha</string>
+    <string name="criarcadas">Criar</string>
+    <string name="fazerlog">Fazer login</string>
+    <string name="digitenome">Digite seu nome</string>
+    <string name="criaçaodeconta">Criação de conta</string>
+    <string name="informedados">Informe seus dados para criar sua conta</string>
+    <string name="confirmarsenha">Confirme sua senha</string>
+    <string name="suasenhadeve">Use 6 caracteres, incluindo números e letras</string>
+    <string name="registrar">Registrar Denúncia</string>
+    <string name="descricao">Descrição da Denuncia</string>
+    <string name="categoria">Categoria</string>
+    <string name="localizacao">Localização</string>
+    <string name="faca">Faça sua denúncia</string>
+    <string name="perfil">Oi, Cláudio!</string>
+    <string name="dashTitulo">Denúncia recebidas na semana</string>
+    <string name="dashBDenuncia">Fazer denúncia</string>
+    <string name="dashBApoio">Locais de Apoio</string>
+    <string name="dashTexto">Não fique em silêncio, estamos aqui para ajudar</string>
+    <string name="localApoioTitulo">Locais de Apoio</string>
+    <string name="perfilTexto">Sou Cláudio, brasileiro e carioca de coração. Cresci no Rio de Janeiro, cercado por praias, música e aquela energia única que só essa cidade tem. Gosto de aproveitar a vida com leveza, sempre aberto a novas experiências e aprendizados.</string>
+    <string name="perfilB">Sair</string>
+
+</resources>
